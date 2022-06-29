@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/absolutelayout/rs2xml.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="rs2xml.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
